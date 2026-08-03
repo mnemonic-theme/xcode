@@ -13,9 +13,9 @@
 	<key>DVTSourceTextSelectionColor</key>
 	<string>0.13333333333333333 0.1803921568627451 0.16470588235294117 1.0</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.1607843137254902 0.1607843137254902 0.1607843137254902 1.0</string>
+	<string>0.6274509803921569 0.6274509803921569 0.6274509803921569 0.12549019607843137</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
+	<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5019607843137255 0.5019607843137255 0.5019607843137255 1.0</string>
 	<key>DVTSourceTextSyntaxColors</key>
@@ -27,17 +27,17 @@
 		<key>xcode.syntax.comment</key>
 		<string>0.5019607843137255 0.5019607843137255 0.5019607843137255 1.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
+		<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
+		<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
+		<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.4 0.6980392156862745 1.0 1.0</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>0.4 0.6980392156862745 1.0 1.0</string>
 		<key>xcode.syntax.attribute</key>
-		<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
+		<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 		<key>xcode.syntax.declaration.type</key>
 		<string>0.403921568627451 0.8941176470588236 0.7137254901960784 1.0</string>
 		<key>xcode.syntax.identifier.class</key>
@@ -181,7 +181,7 @@
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
 	<key>DVTMarkupTextBorderColor</key>
-	<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
+	<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>1.0 1.0 1.0 1.0</string>
 	<key>DVTMarkupTextNormalFont</key>
@@ -197,7 +197,7 @@
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>1.0 1.0 1.0 0.6980392156862745</string>
 	<key>DVTMarkupTextLinkColor</key>
-	<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
+	<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 	<key>DVTMarkupTextLinkFont</key>
 	<string>.AppleSystemUIFont - 10.0</string>
 	<key>DVTMarkupTextCodeFont</key>
@@ -223,7 +223,7 @@
 	<key>DVTScrollbarMarkerDiffConflictColor</key>
 	<string>1.0 0.4 0.5019607843137255 1.0</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
-	<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
+	<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
 	<string>0.4 0.6980392156862745 1.0 1.0</string>
 	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
