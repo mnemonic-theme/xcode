@@ -195,7 +195,7 @@
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.AppleSystemUIFontBold - 10.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
-	<string>1.0 1.0 1.0 0.7</string>
+	<string>1.0 1.0 1.0 0.6980392156862745</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.8156862745098039 0.8156862745098039 0.8156862745098039 1.0</string>
 	<key>DVTMarkupTextLinkFont</key>
@@ -211,7 +211,7 @@
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
 	<string>.AppleSystemUIFont - 18.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
-	<string>1.0 1.0 1.0 0.5</string>
+	<string>1.0 1.0 1.0 0.5019607843137255</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
 	<string>.AppleSystemUIFont - 14.0</string>
 	<key>DVTScrollbarMarkerErrorColor</key>
