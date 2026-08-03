@@ -11,7 +11,7 @@
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.12549019607843137 0.4980392156862745 0.8745098039215686 1.0</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.9372549019607843 0.9647058823529412 0.9921568627450981 1.0</string>
+	<string>0.9529411764705882 0.9764705882352941 1.0 1.0</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.9411764705882353 0.9411764705882353 0.9411764705882353 1.0</string>
 	<key>DVTSourceTextInvisiblesColor</key>
@@ -157,7 +157,7 @@
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.12549019607843137 0.4980392156862745 0.8745098039215686 1.0</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.9372549019607843 0.9647058823529412 0.9921568627450981 1.0</string>
+	<string>0.9529411764705882 0.9764705882352941 1.0 1.0</string>
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.12549019607843137 0.4980392156862745 0.8745098039215686 1.0</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
