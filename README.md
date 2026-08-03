@@ -4,22 +4,18 @@ A vibrant and purposeful theme family for [Xcode](https://developer.apple.com/xc
 * vibrant: saturated color choices and an unapologetic feel
 * purposeful: functionality-focused design and consistent ANSI colors
 
-Themes:
-* innovation light & premonition dark: paired themes with a seamless light/dark mode transition
-* prophecy light & legion dark: bold variations that embrace creative expression
-
 ## Previews
 ### :microscope: Innovation <kbd>light</kbd> · :candle: Premonition <kbd>dark</kbd>
 Paired themes with a seamless light/dark mode transition
 | Innovation | Premonition |
 | :---: | :---: |
-| _screenshot TBD_ | _screenshot TBD_ |
+| <img width="2376" height="1610" alt="CleanShot 2026-08-03 at 14 34 31@2x" src="https://github.com/user-attachments/assets/0efbcf99-db4f-47c9-b219-1be290882f57" /> | <img width="2376" height="1610" alt="CleanShot 2026-08-03 at 14 35 02@2x" src="https://github.com/user-attachments/assets/5873dbf7-983e-4a04-ab0e-4baf7c5bf532" /> |
 
 ### :desert: Prophecy <kbd>light</kbd> · :space_invader: Legion <kbd>dark</kbd>
 Bold variations that embrace creative expression
 | Prophecy | Legion |
 | :---: | :---: |
-| _screenshot TBD_ | _screenshot TBD_ |
+| <img width="2376" height="1610" alt="CleanShot 2026-08-03 at 14 33 56@2x" src="https://github.com/user-attachments/assets/398b102e-3d84-40ae-bfae-bdb4117ddb0f" /> | <img width="2376" height="1610" alt="CleanShot 2026-08-03 at 14 33 24@2x" src="https://github.com/user-attachments/assets/f809be57-c083-49e0-ba67-65944a39bbb3" /> |
 
 ## Install
 
