@@ -11,13 +11,13 @@
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.403921568627451 0.8941176470588236 0.7137254901960784 1.0</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.13333333333333333 0.1803921568627451 0.16470588235294117 1.0</string>
+	<string>0.403921568627451 0.8941176470588236 0.7137254901960784 0.09411764705882353</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.6274509803921569 0.6274509803921569 0.6274509803921569 0.12549019607843137</string>
+	<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 0.12549019607843137</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
-	<string>0.5019607843137255 0.5019607843137255 0.5019607843137255 1.0</string>
+	<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.plain</key>
@@ -25,7 +25,7 @@
 		<key>xcode.syntax.declaration.other</key>
 		<string>1.0 1.0 1.0 1.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.5019607843137255 0.5019607843137255 0.5019607843137255 1.0</string>
+		<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 		<key>xcode.syntax.comment.doc</key>
 		<string>0.8588235294117647 0.8588235294117647 0.8588235294117647 1.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
@@ -79,7 +79,7 @@
 		<key>xcode.syntax.regex.number</key>
 		<string>0.403921568627451 0.8941176470588236 0.7137254901960784 1.0</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>0.5019607843137255 0.5019607843137255 0.5019607843137255 1.0</string>
+		<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>1.0 1.0 1.0 1.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
@@ -157,7 +157,7 @@
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.403921568627451 0.8941176470588236 0.7137254901960784 1.0</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.13333333333333333 0.1803921568627451 0.16470588235294117 1.0</string>
+	<string>0.403921568627451 0.8941176470588236 0.7137254901960784 0.09411764705882353</string>
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.403921568627451 0.8941176470588236 0.7137254901960784 1.0</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
@@ -219,7 +219,7 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>1.0 0.8588235294117647 0.4392156862745098 1.0</string>
 	<key>DVTScrollbarMarkerDiffColor</key>
-	<string>0.5019607843137255 0.5019607843137255 0.5019607843137255 1.0</string>
+	<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 	<key>DVTScrollbarMarkerDiffConflictColor</key>
 	<string>1.0 0.4 0.5019607843137255 1.0</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
