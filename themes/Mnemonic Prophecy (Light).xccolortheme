@@ -21,9 +21,9 @@
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.plain</key>
-		<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+		<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+		<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 		<key>xcode.syntax.comment</key>
 		<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -81,7 +81,7 @@
 		<key>xcode.syntax.regex.other</key>
 		<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+		<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0.47058823529411764 0.3333333333333333 0.6666666666666666 1.0</string>
 	</dict>
@@ -163,7 +163,7 @@
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>JetBrainsMono-Light - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>JetBrainsMono-Light - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
@@ -175,7 +175,7 @@
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>JetBrainsMono-Light - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>JetBrainsMono-Light - 11.0</string>
 	<key>DVTMarkupTextBackgroundColor</key>
@@ -183,19 +183,19 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.3333333333333333 0.3333333333333333 0.3333333333333333 1.0</string>
 	<key>DVTMarkupTextNormalColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 	<key>DVTMarkupTextNormalFont</key>
 	<string>.AppleSystemUIFont - 10.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.AppleSystemUIFontItalic - 10.0</string>
 	<key>DVTMarkupTextStrongColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.AppleSystemUIFontBold - 10.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 0.6980392156862745</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 0.6980392156862745</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 	<key>DVTMarkupTextLinkFont</key>
@@ -203,15 +203,15 @@
 	<key>DVTMarkupTextCodeFont</key>
 	<string>SFMono-Regular - 10.0</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
 	<string>.AppleSystemUIFont - 24.0</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 1.0</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 1.0</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
 	<string>.AppleSystemUIFont - 18.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
-	<string>0.10196078431372549 0.10196078431372549 0.10196078431372549 0.5019607843137255</string>
+	<string>0.06274509803921569 0.06274509803921569 0.06274509803921569 0.5019607843137255</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
 	<string>.AppleSystemUIFont - 14.0</string>
 	<key>DVTScrollbarMarkerErrorColor</key>
