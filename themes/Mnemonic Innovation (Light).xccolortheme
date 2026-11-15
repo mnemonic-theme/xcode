@@ -55,17 +55,17 @@
 		<key>xcode.syntax.url</key>
 		<string>0.12549019607843137 0.4980392156862745 0.8745098039215686 1.0</string>
 		<key>xcode.syntax.string</key>
-		<string>0.0 0.7333333333333333 0.8 1.0</string>
+		<string>0.0 0.6941176470588235 0.7607843137254902 1.0</string>
 		<key>xcode.syntax.character</key>
-		<string>0.0 0.7333333333333333 0.8 1.0</string>
+		<string>0.0 0.6941176470588235 0.7607843137254902 1.0</string>
 		<key>xcode.syntax.regex</key>
-		<string>0.0 0.7333333333333333 0.8 1.0</string>
+		<string>0.0 0.6941176470588235 0.7607843137254902 1.0</string>
 		<key>xcode.syntax.number</key>
-		<string>0.0 0.7333333333333333 0.8 1.0</string>
+		<string>0.0 0.6941176470588235 0.7607843137254902 1.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.0 0.7333333333333333 0.8 1.0</string>
+		<string>0.0 0.6941176470588235 0.7607843137254902 1.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.0 0.7333333333333333 0.8 1.0</string>
+		<string>0.0 0.6941176470588235 0.7607843137254902 1.0</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.0 0.7019607843137254 0.44313725490196076 1.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
@@ -215,13 +215,13 @@
 	<key>DVTMarkupTextOtherHeadingFont</key>
 	<string>.AppleSystemUIFont - 14.0</string>
 	<key>DVTScrollbarMarkerErrorColor</key>
-	<string>0.8745098039215686 0.12549019607843137 0.25098039215686274 1.0</string>
+	<string>0.8470588235294118 0.19607843137254902 0.27450980392156865 1.0</string>
 	<key>DVTScrollbarMarkerWarningColor</key>
-	<string>0.8509803921568627 0.6352941176470588 0.0 1.0</string>
+	<string>0.803921568627451 0.6 0.0 1.0</string>
 	<key>DVTScrollbarMarkerDiffColor</key>
 	<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 	<key>DVTScrollbarMarkerDiffConflictColor</key>
-	<string>0.8745098039215686 0.12549019607843137 0.25098039215686274 1.0</string>
+	<string>0.8470588235294118 0.19607843137254902 0.27450980392156865 1.0</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
 	<string>0.6196078431372549 0.6196078431372549 0.6196078431372549 1.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
